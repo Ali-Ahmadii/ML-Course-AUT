@@ -1,2 +1,2 @@
 # ML-Course-AUT
-Exercises Of AUT Machine Learning Course
+Exercises Of AUT Machine Learning Course.
